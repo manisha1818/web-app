@@ -1,5 +1,7 @@
  <html>
  <head> <title>testing page</title> 
+<style>
+p{background-color:blue;}
 </head>
  <body>
  <h1>Welcome to My Website</h1> 
